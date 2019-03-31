@@ -1,0 +1,1 @@
+These are two short functions that implement the 2-pool magnetization transfer model of Henkelman. Pulse amplitudes are given in constant wave equivalent flip-angles after the ramani transform. Gaussian and super-Lorenzian shapes are implemented.
